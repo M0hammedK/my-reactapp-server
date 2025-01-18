@@ -9,7 +9,7 @@
     "auther": "",
     "license": "ISC",
     "dependencies": {
-        "deamon": "^1.0.0",
-        "json-server": "^0.17.4"
+        "json-server": "^0.17.4",
+        "nodemon": "^3.1.9"
     }
 }
