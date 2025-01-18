@@ -3,11 +3,13 @@
     "version": "0.1.0",
     "main": "server.js",
     "scripts": {
-      "start": "npm server.js"
+        "start": "nodemon server.js"
     },
     "keywords": [],
     "auther": "",
-    "license": "ISC"
-  
-  }
-  
+    "license": "ISC",
+    "dependencies": {
+        "deamon": "^1.0.0",
+        "json-server": "^0.17.4"
+    }
+}
